@@ -1,0 +1,1 @@
+This is Solomon's first Git project.
